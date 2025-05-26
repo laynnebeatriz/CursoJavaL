@@ -32,7 +32,5 @@ public class TesteDog {
         System.out.println(dogs[1].name);
         System.out.println(dogs[3].name);
         System.out.println(dogs[4].name);
-
-
     }
 }
