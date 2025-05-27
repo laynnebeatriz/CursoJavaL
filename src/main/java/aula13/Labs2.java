@@ -11,5 +11,6 @@ public class Labs2 {
         int numero = scan.nextInt();
         System.out.println("O numero informado foi: " + numero);
 
+
     }
 }
