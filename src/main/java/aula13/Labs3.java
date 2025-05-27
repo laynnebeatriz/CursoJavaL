@@ -14,6 +14,6 @@ public class Labs3 {
         int num2 = scan.nextInt();
 
         int resultado = num1+num2;
-        System.out.println("A soma dos numeros é: " + resultado);
+        System.out.println("A soma dos numeros e: " + resultado);
     }
 }
