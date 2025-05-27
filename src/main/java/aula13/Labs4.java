@@ -20,7 +20,7 @@ public class Labs4 {
         double nota4 = scan.nextDouble();
 
         double media = (nota1 + nota2 + nota3 + nota4) / 4;
-        System.out.println("A media é: " + media);
+        System.out.println("A media e: " + media);
 
     }
 }
