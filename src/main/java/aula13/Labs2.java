@@ -9,7 +9,7 @@ public class Labs2 {
 
         System.out.println("Entre com um numero inteiro");
         int numero = scan.nextInt();
-        System.out.println("O numero informado foi: " + numero);
+        System.out.println("O numero mencionado foi: " + numero);
 
     }
 }
