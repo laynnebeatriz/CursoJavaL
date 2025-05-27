@@ -12,6 +12,6 @@ public class Labs5 {
 
         double cm = metros * 100;
 
-        System.out.println(metros + " m é igual a" + cm + " cm");
+        System.out.println(metros + " m e igual a" + cm + " cm");
     }
 }
