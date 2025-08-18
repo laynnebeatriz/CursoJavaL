@@ -8,9 +8,16 @@ public class LoopWhile {
 
         System.out.println("Contando até " + max);
 
-        while (i < max){
+        while (i <= max){
             System.out.println("Valor de i :" + i );
             i++; //é a mesma coisa que fazer i = i + 1;//
         }
+        System.out.println(i);
+
+        do {
+            i++;
+            System.out.println("Valor de i :" + i );
+        } while (i < 15);
+        System.out.println(i);
     }
 }
