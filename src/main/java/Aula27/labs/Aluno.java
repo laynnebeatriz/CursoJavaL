@@ -41,7 +41,7 @@ public class Aluno {
         for (int i = 0; i < notasDisciplinas[indice].length; i++){
             soma += notasDisciplinas[indice][i];
         }
-        double media = soma / 4;
+        double media = soma/4;
 
         return media;
     }

@@ -9,13 +9,13 @@ public class Exer3 {
 
         Aluno aluno = new Aluno();
 
-        System.out.println("Entre com o nome do aluno");
+        System.out.println("Entre com o nome do Aluno");
         aluno.nome = scan.next();
 
-        System.out.println("Entre com o nome do curso");
+        System.out.println("Entre com o nome do Curso");
         aluno.nomeCurso = scan.next();
 
-        System.out.println("Entre com a matricula");
+        System.out.println("Entre com a Matricula");
         aluno.matricula = scan.next();
 
         //aluno.nomeDisciplinas = new String[3];
