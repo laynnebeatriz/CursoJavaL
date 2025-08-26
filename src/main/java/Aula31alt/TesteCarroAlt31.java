@@ -8,5 +8,7 @@ public class TesteCarroAlt31 {
         Carro31 carro = new Carro31();
         carro.marca = "Fiat";
 
+        System.out.println("Teste");
+
     }
 }
