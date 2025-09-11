@@ -1,6 +1,6 @@
 package Aula35labs;
 
-public class Calculadora {
+public class Calculadora1 {
 
     public static int fibonacci(int num){
 
