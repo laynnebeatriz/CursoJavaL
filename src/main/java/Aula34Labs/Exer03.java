@@ -14,10 +14,8 @@ public class Exer03 {
             num = scan.nextInt();
 
             if (num < 0){
-                System.out.println("Numero invalido, entre novamente");
+                System.out.println("Numero invalido");
             }
         } while (num < 0);
-
-        System.out.println(Calculadora.fatorial(num));
     }
 }
